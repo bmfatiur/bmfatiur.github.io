@@ -4,6 +4,7 @@ I'm a Computer Science and Engineering graduate from Pabna University of Science
 My expertise is rooted in the dynamic field of `computer vision`, where I focus on developing intelligent systems that address complex challenges and enhance lives. While this remains my primary focus, I am equally intrigued by related domains such as `autonomous vehicles`, `pattern recognition`, `3D vision`, `vision for robotics`, `activity recognition`, and `human-computer interaction(HCI)`—areas where innovation meets real-world impact.
 
 Beyond academia and research, I thrive on `leadership` and `community initiatives`, as they offer invaluable opportunities to grow and create positive change.
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
