@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: bmfatiur-bw-color-punch.png
     content: about_bm.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Jogoshwar-7040, Bheramara</p>
       <p>Kushtia, Bangladesh</p>
