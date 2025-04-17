@@ -18,6 +18,8 @@ jobs:
       - name: Install dependencies
         run: |
           gem install bundler
+      - name: Install Gems
+        run: bundle install
       - name: Build Jekyll site
         run: bundle exec jekyll build
       - name: Clear Ruby Gems Cache
