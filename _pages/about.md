@@ -6,7 +6,7 @@ subtitle: Computer Science and Engineering Graduate, <a href='https://pust.ac.bd
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bmfatiur-bw-color-punch.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Jogoshwar-7040, Bheramara</p>
