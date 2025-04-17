@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Welcome to my repositories page! Here, you&#39;ll find a curated list of projects from my GitHub profile, showcasing my journey and interests in the field of Computer Science and Engineering. Each repository reflects my passion for exploring diverse domains—from building interactive applications and tackling machine learning challenges to delving into the intricacies of computer graphics, digital signal processing, and microcontroller interfacing.Whether it&#39;s the development of practical web application like &quot;Padmaoil,&quot; innovative experiments like &quot;Sleep Disorder Prediction using ML,&quot; or explorations into foundational subjects like data structures and operating systems, these projects highlight my `commitment of learning`, `problem-solving`, and creating meaningful solutions. Dive in to discover how these repositories reflect my growth as a developer and researcher, with a strong focus on advancing my expertise in `computer vision` and beyond.Feel free to explore and be inspired by the diverse range of projects that celebrate both technical depth and creative innovation!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
