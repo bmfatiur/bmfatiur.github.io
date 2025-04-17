@@ -1,14 +1,23 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bmfatiur
 
-repo_description_lines_max: 2
+repo_description_lines_max: 10
 
 github_repos:
   - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bmfatiur/padmaoil
+  - bmfatiur/Sleep-Disorder-Prediction-ML
+  - bmfatiur/The-Dinosaur-Game
+  - bmfatiur/Computer-Graphics
+  - bmfatiur/CSE-4104-AI
+  - bmfatiur/SWI-Prolog
+  - bmfatiur/Digital-Signal-Processing-Sessional
+  - bmfatiur/CSE-4106-Digital-Image-Processing
+  - bmfatiur/CSE-4206-Interfacing-and-Microcontrollers
+  - bmfatiur/Microprocessors-Assembly-Language-Sessional
+  - bmfatiur/operating-system-sessional
+  - bmfatiur/Data-Communication-sessional
+  - bmfatiur/it-cert-automation-practice
+  - bmfatiur/TabbycatImporter
+  - bmfatiur/CSE-2101-Data-Structure
+  - bmfatiur/CSE-4202-Computer-Networks
