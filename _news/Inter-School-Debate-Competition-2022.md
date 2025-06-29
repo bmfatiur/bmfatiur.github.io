@@ -17,9 +17,9 @@ The event followed the **Sanatani (Traditional) Bangla Debate** format, celebrat
 
 > *Served as an Honourable Judge in the 2022 Inter School Traditional Bangla Debate, organized by Sheikh Rasel Jatiyo Shishu Kishor Parishad, Pabna.*
 
-<div style="text-align: center;">
-  ![Crest of the Event](/assets/img/news/Inter-School-Debate-Competition-2022.webp){: width="600" style="max-width: 70%; height: auto;" }
-</div>
+<p align="center">
+  <img src="/assets/img/news/Inter-School-Debate-Competition-2022.webp" alt="Crest of the Event" width="600" style="max-width: 60%; height: auto;" />
+</p>
 
 
 *Official crest of the competition*

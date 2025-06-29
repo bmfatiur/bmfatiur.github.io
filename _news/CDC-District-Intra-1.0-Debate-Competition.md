@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "💻 Tab Director – CDC District Intra 1.0 Debate Competition"
-date: 2015-10-22 15:59:00+0600
-inline: true
-related_posts: false
+date: 2022-01-08 15:59:00+0600
+inline: false
+related_posts: true
 ---
 
 **💻 A Defining Moment in My Tab Journey**
@@ -23,18 +23,16 @@ Beyond the debate, this experience allowed me to explore **Chatmohar’s rich he
 
 <p align="center">
   <a href="https://www.facebook.com/events/1149355182266881/?active_tab=discussion" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/img/news/CDC-district-intra/cdc-banner-tab-director.webp" alt="CDC Tab Director Banner" width="600" style="max-width: 100%; height: auto;" />
+    <img src="/assets/img/news/CDC-district-intra/cdc-banner-tab-director.webp" alt="CDC Tab Director Banner" height="600" style="max-height: 60%; width: auto;" />
   </a>
 </p>
-
-*Click the banner to view the official Facebook post*
 
 ---
 
 ### 🏵️ Event Crest
 
 <p align="center">
-  <img src="/assets/img/news/CDC-district-intra/cdc-district-intra-1.0-crest.webp" alt="CDC Crest" height="400" style="max-height: 60%; width: auto;" />
+  <img src="/assets/img/news/CDC-district-intra/cdc-district-intra-1.0-crest.webp" alt="CDC Crest" height="600" style="max-height: 60%; width: auto;" />
 </p>
 
 *Official crest of the CDC District Intra 1.0*

@@ -19,9 +19,11 @@ In 2019, I proudly stood as the **third speaker** of the **Champion Team** in th
 - 🎓 **Afsana** – BBA Department (Session: 2018–19)
 - 🎓 **Myself** – CSE Department (Session: 2018–19)
 
-Together, we tackled rounds of rigorous debate, strategic thinking, and collaborative energy to emerge as champions. This experience not only sharpened my public speaking and critical reasoning but also deepened my appreciation for teamwork and interdepartmental camaraderie.
+Together, we tackled rounds of rigorous debate, strategic thinking, and collaborative energy to emerge as champions. This experience not only sharpened my public speaking and critical reasoning but also deepened my appreciation for teamwork and inter-departmental camaraderie.
 
-![Champion Team Member Crest](/assets/img/news/PUSTDS-Freshers-League-2019.webp){: height=60% style="max-height: 70%; width: auto;" }
+<p align="center">
+  <img src="/assets/img/news/PUSTDS-Freshers-League-2019.webp" alt="Champion Team Member Crest" height="600" style="max-height: 60%; width: auto;" />
+</p>
 
 *My symbolic crest of victory*
 
