@@ -501,21 +501,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%62%6D.%63%73%65@%70%75%73%74.%61%63.%62%64", "_blank");
+          window.open("mailto:%62%6D%66%72.%63%73%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-facebook',
         title: 'Facebook',
         section: 'Socials',
         handler: () => {
-          window.open("https://facebook.com/https://facebook.com/bmfatiur", "_blank");
+          window.open("https://facebook.com/bmfatiur", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/bmfatiur", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/bmfatiur/", "_blank");
+          window.open("https://www.linkedin.com/in/bmfatiur", "_blank");
         },
       },{
         id: 'social-orcid',
