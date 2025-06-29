@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: cv_with_file_embed
 permalink: /cv/
-title: cv
+title: Curriculum Vitae
 nav: true
 nav_order: 5
 cv_pdf: CV_Bm_Fatiur_Rahman.pdf # you can also use external links here
@@ -10,6 +10,4 @@ description: A snapshot of my academic path, technical expertise, and hands-on w
   This browser does not support PDFs. Please download the PDF to view it: 
   <a href="{{ site.baseurl }}/assets/pdf/CV_Bm_Fatiur_Rahman.pdf">Download PDF</a>.
 </iframe>
-toc:
-  sidebar: left
 ---
