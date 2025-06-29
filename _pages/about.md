@@ -12,7 +12,7 @@ profile:
     <p>Jogoshwar-7040, Bheramara</p>
     <p>Kushtia, Bangladesh</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
