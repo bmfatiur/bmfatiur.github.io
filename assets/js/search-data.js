@@ -416,7 +416,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-champion-team-pustds-freshers-league-2019",
+          title: '🏆 Champion Team – PUSTDS Freshers’ League 2019',
+          description: "Our Pritilata House team triumphed in the 2019 PUSTDS Freshers’ League Bangla debate tournament.",
+          section: "News",handler: () => {
+              window.location.href = "/news/PUSTDS-Freshers-League-2019/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
