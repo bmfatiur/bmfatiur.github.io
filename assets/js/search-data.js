@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
+          description: "A snapshot of my academic path, technical expertise, and hands-on work in **computer vision**, **deep learning**, and **software development**—showcasing projects, achievements, and real-world experience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
