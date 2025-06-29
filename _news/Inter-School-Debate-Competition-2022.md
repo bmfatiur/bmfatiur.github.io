@@ -7,7 +7,9 @@ related_posts: false
 ---
 
 **🎤 Honoured to Judge the Future of Debate**
---
+
+---
+
 
 I had the privilege of serving as an **Honourable Judge** at the **Inter School Debate Competition 2022**, organized by *Sheikh Rasel Jatiyo Shishu Kishor Parishad*, Pabna District Branch.
 
@@ -15,7 +17,11 @@ The event followed the **Sanatani (Traditional) Bangla Debate** format, celebrat
 
 > *Served as an Honourable Judge in the 2022 Inter School Traditional Bangla Debate, organized by Sheikh Rasel Jatiyo Shishu Kishor Parishad, Pabna.*
 
-![Crest of the Event](/assets/img/news/Inter-School-Debate-Competition-2022.webp){: width="600" style="max-width: 100%; height: auto;" }
+<div style="text-align: center;">
+  ![Crest of the Event](/assets/img/news/Inter-School-Debate-Competition-2022.webp){: width="600" style="max-width: 70%; height: auto;" }
+</div>
+
 
 *Official crest of the competition*
+
 ---

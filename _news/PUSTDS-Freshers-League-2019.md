@@ -8,7 +8,9 @@ related_posts: true
 
 
 **🏆 Victory for Pritilata House!**
---
+
+---
+
 
 In 2019, I proudly stood as the **third speaker** of the **Champion Team** in the *PUST Debating Society (PUSTDS) Freshers’ League*, an Asian Parliamentary-style Bangla debate tournament. Representing **Pritilata House**, our team united voices from across departments and disciplines to claim the title.
 
@@ -19,7 +21,7 @@ In 2019, I proudly stood as the **third speaker** of the **Champion Team** in th
 
 Together, we tackled rounds of rigorous debate, strategic thinking, and collaborative energy to emerge as champions. This experience not only sharpened my public speaking and critical reasoning but also deepened my appreciation for teamwork and interdepartmental camaraderie.
 
-![Champion Team Member Crest](/assets/img/news/PUSTDS-Freshers-League-2019.webp){: width="600" style="max-width: 80%; height: auto;" }
+![Champion Team Member Crest](/assets/img/news/PUSTDS-Freshers-League-2019.webp){: height=60% style="max-height: 70%; width: auto;" }
 
 *My symbolic crest of victory*
 
