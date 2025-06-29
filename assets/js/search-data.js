@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-defining-moment-in-my-tab-journey-i-had-the-privilege-of-serving-as-tab-director-at-the-cdc-district-intra-1-0-debate-competition-organized-by-chatmohar-debate-club-cdc-this-was-my-first-tabbing-experience-beyond-pustds-and-it-marked-a-significant-milestone-in-my-debating-and-organizing-journey-i-owe-immense-gratitude-to-shuvro-hasan-vai-facebook-for-mentoring-me-in-tab-direction-from-my-very-first-steps-in-learning-the-tab-system-to-this-very-day-his-guidance-has-been-unwavering-i-truly-cannot-express-my-appreciation-in-words-beyond-the-debate-this-experience-allowed-me-to-explore-chatmohar-s-rich-heritage-its-colonial-era-legacy-and-its-renowned-sweets-the-cdc-organizing-committee-was-energetic-welcoming-and-inspiring-it-was-a-vibrant-and-formative-chapter-in-my-early-tabbing-career-official-event-banner-click-the-banner-to-view-the-official-facebook-post-️-event-crest-official-crest-of-the-cdc-district-intra-1-0-glimpses-from-the-event-amp-10094-amp-10095",
+          title: '💻 A Defining Moment in My Tab Journey I had the privilege of...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
