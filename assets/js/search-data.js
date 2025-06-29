@@ -413,14 +413,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-champion-team-pustds-freshers-league-2019",
+            },},{id: "news-champion-team-pustds-freshers-league-2019",
           title: '🏆 Champion Team – PUSTDS Freshers’ League 2019',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/PUSTDS-Freshers-League-2019/";
+            },},{id: "news-honourable-judge-inter-school-debate-competition-2022",
+          title: '🎤 Honourable Judge – Inter School Debate Competition 2022',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Inter-School-Debate-Competition-2022/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
