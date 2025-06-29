@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A snapshot of my academic path, technical expertise, and hands-on work in __computer vision__, __deep learning__, and __software development__—showcasing projects, achievements, real-world experience, and active leadership in co-curricular communities like __debate__, __student welfare__, and __campus organizations__.",
+          description: "A snapshot of my academic path, technical expertise, and hands-on work in **computer vision**, **deep learning**, and **software development**—showcasing projects, achievements, real-world experience, and active leadership in co-curricular communities like debate, student welfare, and campus organizations.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
