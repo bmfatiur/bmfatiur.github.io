@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-champion-team-pustds-freshers-league-2019",
           title: '🏆 Champion Team – PUSTDS Freshers’ League 2019',
-          description: "Our Pritilata House team triumphed in the 2019 PUSTDS Freshers’ League Bangla debate tournament.",
+          description: "",
           section: "News",handler: () => {
               window.location.href = "/news/PUSTDS-Freshers-League-2019/";
             },},{id: "projects-project-1",
