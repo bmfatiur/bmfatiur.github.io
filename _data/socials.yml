@@ -7,10 +7,11 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: bm.cse@pust.ac.bd # your email address
-facebook_id: https://facebook.com/bmfatiur # your facebook id
+email: bmfr.cse@gmail.com # your email address
+# facebook_id: https://facebook.com/bmfatiur # your facebook id
+facebook_id: bmfatiur # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: bmfatiur # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -20,7 +21,8 @@ facebook_id: https://facebook.com/bmfatiur # your facebook id
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: https://www.linkedin.com/in/bmfatiur/ # your LinkedIn user name
+# linkedin_username: https://www.linkedin.com/in/bmfatiur/ # your LinkedIn user name
+linkedin_username: bmfatiur # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0009-0002-2447-3518 # your ORCID ID
