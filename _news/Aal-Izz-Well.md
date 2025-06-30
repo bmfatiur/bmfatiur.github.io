@@ -7,7 +7,7 @@ related_posts: true
 ---
 
 <p align="center">
-  <img src="/assets/img/news/2025/aal-izz-well-banner.jpg" alt="Aal Izz Well Tournament Banner" style="max-height: 60%; border-radius: 8px;" />
+  <img src="/assets/img/news/aal-izz-well-banner.jpg" alt="Aal Izz Well Tournament Banner" style="max-height: 60%; border-radius: 8px;" />
 </p>
 
 **Aal Izz Well**—more than a phrase, it became the heartbeat of the **PUSTDS Freshers' Tournament 2025**, echoing encouragement, energy, and optimism through every round of debate.
@@ -17,7 +17,7 @@ Held on **January 30, 2025**, the tournament welcomed freshers of the **16th bat
 I had the privilege to serve as a **Core Adjudicator**, guiding and evaluating these newcomers as they embraced the stage, challenged arguments, and discovered their voice. Moments of hesitation turned into applause. That's what made this special.
 
 <p align="center">
-  <img src="/assets/img/news/2025/aal-izz-well-group-1.jpeg" alt="Freshers' Tournament Group Photo with Tapos vai and Mamun vai" style="max-width: 70%; border-radius: 8px;" />
+  <img src="/assets/img/news/aal-izz-well-group-1.jpeg" alt="Freshers' Tournament Group Photo with Tapos vai and Mamun vai" style="max-width: 70%; border-radius: 8px;" />
 </p>
 
 This wasn’t just a tournament. It was a spark. A celebration of potential. A memory forged in bold speeches and shared laughter.
