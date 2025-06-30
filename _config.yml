@@ -90,8 +90,9 @@ bing_site_verification: 980F141322BF3DB03DA1366045435E2F # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Bm Fatiur Rahman's Blogs # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: "Visionaries Write Debug Logs" # blog_name will be displayed in your blog page
+blog_description: "Seeing is believing. But is it truth? Depends on your point of view."
+# "Explorations at the intersection of vision, logic, and invention. Where deep learning meets deeper thinking."
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

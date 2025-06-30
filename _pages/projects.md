@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated collection of my technical and creative explorations — spanning academic research, practical applications, and personal experiments. Each project reflects not only what I've built, but also how I think, structure, and solve. From computer vision prototypes and game development to web platforms and design systems, this is where ideas are forged into function.
 nav: true
 nav_order: 3
 display_categories: [academic, work, fun]
