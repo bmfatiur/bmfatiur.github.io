@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green";
           
         },
+      },{id: "post-a-journey-etched-in-bonds-and-milestones",
+        
+          title: "🎓 A Journey Etched in Bonds and Milestones",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Journey-Etched-in-Bonds-and-Milestones";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -450,9 +461,7 @@ ninja.data = [{
             },},{id: "news-a-journey-etched-in-bonds-and-milestones",
           title: '🎓 A Journey Etched in Bonds and Milestones',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/A-Journey-Etched-in-Bonds-and-Milestones/";
-            },},{id: "news-from-silence-to-synergy-my-journey-with-solver-green",
+          section: "News",},{id: "news-from-silence-to-synergy-my-journey-with-solver-green",
           title: 'From Silence to Synergy: My Journey with Solver Green 🌱',
           description: "",
           section: "News",},{id: "projects-project-1",
