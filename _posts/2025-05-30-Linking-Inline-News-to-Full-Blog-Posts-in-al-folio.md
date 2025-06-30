@@ -3,8 +3,8 @@ layout: post
 title: "Linking Inline News to Full Blog Posts in al-folio ✍️"
 date: 2025-05-30 16:56:16+0600
 description: "A simple guide to interconnecting your inline announcements and full-length blog content using al-folio."
-tags: [Jekyll, al-folio, web-development]
-categories: undergraduate-life
+tags: [Jekyll, al-folio, writing, blog, 2025, website]
+categories: al-folio
 permalink: /blog/2025/Linking-Inline-News-to-Full-Blog-Posts-in-al-folio
 ---
 

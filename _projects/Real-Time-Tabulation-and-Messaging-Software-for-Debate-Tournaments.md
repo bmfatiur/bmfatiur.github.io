@@ -2,7 +2,7 @@
 layout: page
 title: "🗂️ Real-Time Tabulation and Messaging Software for Debate Tournaments"
 description: "Desktop system for AP & BP debate tabbing and judge coordination"
-img: /assets/img/projects/debate-slide-1.webp
+img: /assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-0.png
 importance: 203
 category: academic
 ---
@@ -190,7 +190,10 @@ This Java-based desktop application supports smooth coordination of debate tourn
 
 ### 🎞️ Feature Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LTSWU1sY0Co?si=peC2jA3yt3Lqbrvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="display: flex; justify-content: center; margin: 2em 0;">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LTSWU1sY0Co?si=peC2jA3yt3Lqbrvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 
 This short clip walks through the application—from login to round tabbing to real-time messaging—in action.
 
