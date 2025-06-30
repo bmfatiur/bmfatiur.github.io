@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 [From Silence to Synergy: My Journey with Solver Green 🌱]({{ site.baseurl }}/blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green)

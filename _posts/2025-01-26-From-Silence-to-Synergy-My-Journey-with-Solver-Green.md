@@ -9,7 +9,7 @@ permalink: /blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green
 ---
 
 <p align="center">
-  <img src="/assets/img/news/solvergreen-crest.webp" alt="Solver Green Farewell Crest" height="600" style="max-height: 60%; width: auto;" />
+  <img src="/assets/img/blog/2025/Solver-Green/solvergreen-crest.webp" alt="Solver Green Farewell Crest" height="600" style="max-height: 60%; width: auto;" />
 </p>
 
 What started as a quiet step through **PUSTDS**, where I first met **Shafiul vai**, quickly turned into one of the most defining chapters of my university life—**my journey with Solver Green**.
@@ -64,25 +64,25 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
 
   <div class="slideshow-container" onclick="togglePause()">
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" />
     </div>
     <div class="slideshow-slide">
-      <img src="assets/img/news/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" />
+      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" />
     </div>
     
 
