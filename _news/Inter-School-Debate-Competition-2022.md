@@ -3,7 +3,7 @@ layout: post
 title: "🎤 Honourable Judge – Inter School Debate Competition 2022"
 date: 2022-10-20 09:59:00+0600
 inline: false
-related_posts: false
+related_posts: true
 ---
 
 **🎤 Honoured to Judge the Future of Debate**

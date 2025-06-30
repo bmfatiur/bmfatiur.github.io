@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Honored at 'Bridging the Technical Gap with EDUPY' 🌟"
-date: 2023-05-15 16:11:00-0400
+date: 2023-06-15 15:11:00+0600
 inline: false
 related_posts: true
 ---
