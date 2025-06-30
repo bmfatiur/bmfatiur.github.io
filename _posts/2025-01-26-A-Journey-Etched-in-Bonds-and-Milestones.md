@@ -2,7 +2,7 @@
 layout: post
 title: "🎓 A Journey Etched in Bonds and Milestones"
 date: 2025-01-26 18:00:00+0600
-description: 
+description: "A heartfelt reflection on my journey through CSE at PUST—filled with bonds, resilience, and gratitude"
 tags: PUST
 categories: undergraduate-life
 permalink: /blog/2025/Journey-Etched-in-Bonds-and-Milestones
