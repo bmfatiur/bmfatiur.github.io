@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "🛒 Designing a Scalable E-Commerce Platform for Padma Oil Mill Ltd"
-description: "Web-based Laravel e-commerce system with robust admin & user interfaces"
+description: "Web-based Laravel e-commerce system with robust admin and user interfaces"
 img: /assets/img/projects/E-Commerce/Login.png
 importance: 202
 category: academic
