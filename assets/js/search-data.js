@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A curated collection of my technical and creative explorations — spanning academic research, practical applications, and personal experiments. Each project reflects not only what I&#39;ve built, but also how I think, structure, and solve. From computer vision prototypes and game development to web platforms and design systems, this is where ideas are forged into function.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
