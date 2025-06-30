@@ -7,12 +7,6 @@ importance: 201
 category: academic
 ---
 
----
-layout: post
-title: "🧠 SleepWell: A Machine Learning Web App for Early Detection of Sleep Disorders"
-date: 2025-01-30 19:00:00+0600
----
-
 <p align="center">
   <img src="/assets/img/projects/sleep-disorder-dataset.png" alt="Sleep Disorder Dataset Preview" style="max-width: 70%; border-radius: 8px;" />
 </p>

@@ -7,7 +7,7 @@ related_posts: true
 ---
 
 <p align="center">
-  <img src="/assets/img/news/aal-izz-well-banner.jpg" alt="Aal Izz Well Tournament Banner" style="max-height: 60%; border-radius: 8px;" />
+  <img src="/assets/img/news/aal-izz-well-banner.jpg" alt="Aal Izz Well Tournament Banner" style="max-height: 50%; width: auto; border-radius: 8px;" />
 </p>
 
 **Aal Izz Well**—more than a phrase, it became the heartbeat of the **PUSTDS Freshers' Tournament 2025**, echoing encouragement, energy, and optimism through every round of debate.
