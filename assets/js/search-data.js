@@ -128,6 +128,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Aal-Izz-Well/";
+            },},{id: "projects-designing-a-scalable-e-commerce-platform-for-padma-oil-mill-ltd",
+          title: '🛒 Designing a Scalable E-Commerce Platform for Padma Oil Mill Ltd',
+          description: "Web-based Laravel e-commerce system with robust admin &amp; user interfaces",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Designing-a-Scalable-E-Commerce-Platform/";
             },},{id: "projects-sleepwell-a-machine-learning-web-app-for-early-detection-of-sleep-disorders",
           title: '🧠 SleepWell: A Machine Learning Web App for Early Detection of Sleep Disorders...',
           description: "ML-based sleep disorder detection app",
