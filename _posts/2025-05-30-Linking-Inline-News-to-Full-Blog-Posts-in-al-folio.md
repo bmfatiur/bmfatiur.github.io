@@ -3,7 +3,7 @@ layout: post
 title: "Linking Inline News to Full Blog Posts in al-folio ✍️"
 date: 2025-05-30 16:56:16+0600
 description: "A simple guide to interconnecting your inline announcements and full-length blog content using al-folio."
-tags: [Jekyll, al-folio, writing, blog, 2025, website]
+tags: [Jekyll, al-folio, writing, blog, website]
 categories: al-folio
 permalink: /blog/2025/Linking-Inline-News-to-Full-Blog-Posts-in-al-folio
 ---
@@ -13,6 +13,7 @@ In content-heavy academic websites, providing **concise summaries through inline
 ### ✅ Scenario
 
 Suppose you have:
+
 - An inline post at: `/_news/announcement-post-1.md`
 - A blog post at: `/_post/2024-05-01-blog-post-1.md`  
   with a permalink: `your-site-url/blog/2025/blog-post-1`
@@ -29,7 +30,6 @@ Inside your **inline post**, use the following snippet to create a clean link to
 
 **So, your `/_news/announcement-post-1.md` might look like:**
 
-
 ```markdown
 ---
 layout: post
@@ -40,7 +40,6 @@ related_posts: false
 
 🔔 [announcement post 1]({{ site.baseurl }}/blog/2025/blog-post-1)
 ```
-
 
 **And, your `/_post/2024-05-01-blog-post-1.md` might look like:**
 

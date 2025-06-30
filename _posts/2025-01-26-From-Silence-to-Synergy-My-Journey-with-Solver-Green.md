@@ -83,6 +83,7 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
     <!-- Navigation -->
     <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
     <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
+
   </div>
 
   <script>

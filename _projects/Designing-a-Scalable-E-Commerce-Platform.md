@@ -102,6 +102,7 @@ category: academic
 
     <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
     <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
+
   </div>
 
   <script>
@@ -176,22 +177,22 @@ This project presents the design and implementation of a scalable **web-based e-
 
 ### 🛠️ Technologies Used
 
-- **Frameworks**: Laravel 10, Docker, PHP 8, MySQL  
-- **Frontend**: Blade Templates, Tailwind CSS, Bootstrap, Toastr, SweetAlert, Dropify, Select2  
-- **Libraries**: Chart.js, Carbon, Image Intervention  
-- **Cart Engine**: `anayarojo/shoppingcart`  
+- **Frameworks**: Laravel 10, Docker, PHP 8, MySQL
+- **Frontend**: Blade Templates, Tailwind CSS, Bootstrap, Toastr, SweetAlert, Dropify, Select2
+- **Libraries**: Chart.js, Carbon, Image Intervention
+- **Cart Engine**: `anayarojo/shoppingcart`
 
 ---
 
 ### 📦 Key Deliverables
 
-- Admin & customer portals with authentication and role control  
-- Category and product CRUD operations  
-- Shopping cart with custom pricing rules  
-- Order & inventory handling system  
-- Feedback and testimonial manager  
-- Coupon generator and usage tracker  
-- Real-time analytics dashboard  
+- Admin & customer portals with authentication and role control
+- Category and product CRUD operations
+- Shopping cart with custom pricing rules
+- Order & inventory handling system
+- Feedback and testimonial manager
+- Coupon generator and usage tracker
+- Real-time analytics dashboard
 
 ---
 

@@ -10,8 +10,7 @@ related_posts: true
 
 ---
 
-
-I had the privilege of serving as **Tab Director** at the **CDC District Intra 1.0 Debate Competition**, organized by *Chatmohar Debate Club (CDC)*. This was my **first tabbing experience beyond PUSTDS**, and it marked a significant milestone in my debating and organizing journey.
+I had the privilege of serving as **Tab Director** at the **CDC District Intra 1.0 Debate Competition**, organized by _Chatmohar Debate Club (CDC)_. This was my **first tabbing experience beyond PUSTDS**, and it marked a significant milestone in my debating and organizing journey.
 
 I owe immense gratitude to **Shuvro Hasan** vai ([Facebook](https://www.facebook.com/happy.hasan.52)) for mentoring me in tab direction. From my very first steps in learning the tab system to this very day, his guidance has been unwavering. I truly cannot express my appreciation in words.
 
@@ -35,7 +34,7 @@ Beyond the debate, this experience allowed me to explore **Chatmohar’s rich he
   <img src="/assets/img/news/CDC-district-intra/cdc-district-intra-1.0-crest.webp" alt="CDC Crest" height="600" style="max-height: 60%; width: auto;" />
 </p>
 
-*Official crest of the CDC District Intra 1.0*
+_Official crest of the CDC District Intra 1.0_
 
 ---
 
@@ -95,6 +94,7 @@ Beyond the debate, this experience allowed me to explore **Chatmohar’s rich he
 
     <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
     <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
+
   </div>
 
   <script>

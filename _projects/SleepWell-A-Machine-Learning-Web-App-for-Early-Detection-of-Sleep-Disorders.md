@@ -43,10 +43,10 @@ This reflects a strong balance between sensitivity and specificity—critical fo
 
 ### 🛠️ Tech Stack
 
-- **Backend ML**: Python, Flask, Scikit-learn, Pandas, Joblib  
-- **Web Application**: Laravel, MySQL, Blade Templates  
-- **Visualization**: Matplotlib  
-- **Storage & Deployment**: Structured dataset ingestion, model serialization, and API consumption  
+- **Backend ML**: Python, Flask, Scikit-learn, Pandas, Joblib
+- **Web Application**: Laravel, MySQL, Blade Templates
+- **Visualization**: Matplotlib
+- **Storage & Deployment**: Structured dataset ingestion, model serialization, and API consumption
 - **Data Pipeline**: Label Encoding, Random Forest Classification, Test-Train Split, JSON I/O
 
 ---

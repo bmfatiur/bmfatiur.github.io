@@ -3,7 +3,7 @@ layout: post
 title: "🛠️ How I Structure Projects on My Al-Folio Website"
 description: "A behind-the-scenes look at how I organize and present my projects using al-folio"
 date: 2025-03-02 16:20:02+0600
-tags: writing blog 2025 website
+tags: [writing, blog, website]
 categories: al-folio
 permalink: /blog/2025/How-I-Structure-Projects-on-My-Al-Folio-Website
 ---
@@ -19,6 +19,7 @@ Each project starts with a **front matter block** that defines how it appears on
 Here are some examples I’ve used:
 
 # Project 1: Research-focused
+
 ```yaml
 ---
 layout: page
@@ -33,6 +34,7 @@ related_publications: true
 ---
 
 # Project 2: With comments enabled
+
 ```yaml
 ---
 layout: page
@@ -47,6 +49,7 @@ giscus_comments: true
 ---
 
 # Project 3: External redirect
+
 ```yaml
 ---
 layout: page
@@ -61,6 +64,7 @@ category: work
 ---
 
 # Project 4: No cover image
+
 ```yaml
 ---
 layout: page
@@ -74,6 +78,7 @@ category: fun
 ---
 
 # Project 5: Creative UI build
+
 ```yaml
 ---
 layout: page
@@ -112,7 +117,7 @@ I even turn on `giscus_comments` for public-facing projects where I welcome ques
 
 ## 🎯 Why It Works
 
-- Keeps my homepage clean and smartly sorted  
-- Makes it easy for viewers to distinguish between project types  
-- Allows me to customize engagement (comments, links, etc.) per project  
+- Keeps my homepage clean and smartly sorted
+- Makes it easy for viewers to distinguish between project types
+- Allows me to customize engagement (comments, links, etc.) per project
 - Aligns with Jekyll’s flexible static-site structure

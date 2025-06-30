@@ -3,7 +3,7 @@ layout: post
 title: "🖼️ Captioned & Uncaptioned Sliders in Al-Folio Website Posts"
 description: "A practical comparison of slideshow layouts in al-folio using custom HTML + CSS + JS"
 date: 2025-02-21 21:19:11+0600
-tags: [slider, Jekyll, al-folio, writing, blog, 2025, website]
+tags: [slider, Jekyll, al-folio, writing, blog, website]
 categories: al-folio
 permalink: /blog/2025/Captioned-Uncaptioned-Sliders-in-Al-Folio-Website-Posts
 ---
@@ -43,7 +43,8 @@ This version is clean, minimalist, and fully responsive. It works great for walk
       margin: auto;
       display: block;
     }
-    .prev, .next {
+    .prev,
+    .next {
       cursor: pointer;
       position: absolute;
       top: 50%;
@@ -52,13 +53,17 @@ This version is clean, minimalist, and fully responsive. It works great for walk
       color: white;
       font-weight: bold;
       font-size: 18px;
-      background-color: rgba(0,0,0,0.5);
+      background-color: rgba(0, 0, 0, 0.5);
       border-radius: 4px;
       z-index: 10;
       user-select: none;
     }
-    .next { right: 0; }
-    .prev { left: 0; }
+    .next {
+      right: 0;
+    }
+    .prev {
+      left: 0;
+    }
   </style>
 
   <div class="slideshow-container" onclick="togglePause()">
@@ -102,7 +107,7 @@ This version is clean, minimalist, and fully responsive. It works great for walk
 
     function preloadImages() {
       const imgs = document.querySelectorAll(".slideshow-slide img");
-      imgs.forEach(img => new Image().src = img.src);
+      imgs.forEach((img) => (new Image().src = img.src));
     }
 
     window.addEventListener("load", () => {
@@ -155,7 +160,8 @@ This version builds on the first, adding `.slide-caption` elements beneath each 
       margin-top: 5px;
       font-weight: 500;
     }
-    .prev, .next {
+    .prev,
+    .next {
       cursor: pointer;
       position: absolute;
       top: 50%;
@@ -164,7 +170,7 @@ This version builds on the first, adding `.slide-caption` elements beneath each 
       color: white;
       font-weight: bold;
       font-size: 18px;
-      background-color: rgba(0,0,0,0.5);
+      background-color: rgba(0, 0, 0, 0.5);
       border-radius: 4px;
       z-index: 10;
       user-select: none;
@@ -223,7 +229,7 @@ This version builds on the first, adding `.slide-caption` elements beneath each 
 
     function preloadImages() {
       const imgs = document.querySelectorAll(".slideshow-slide img");
-      imgs.forEach(img => {
+      imgs.forEach((img) => {
         const preImg = new Image();
         preImg.src = img.src;
       });
@@ -236,7 +242,6 @@ This version builds on the first, adding `.slide-caption` elements beneath each 
     });
   </script>
 </div>
-
 ```
 
 ---

@@ -112,6 +112,7 @@ category: academic
     <!-- Navigation -->
     <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
     <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
+
   </div>
 
   <script>
@@ -170,21 +171,21 @@ This Java-based desktop application supports smooth coordination of debate tourn
 
 ### 🔐 System Highlights
 
-- **Admin-assistant dual login system** with secure credential handling  
-- **AP & BP debate mode support** with role-based adjudicator input tracking  
-- **Socket-based messaging module** for instant judge-admin communication  
-- **Intuitive GUI** built with Java Swing, styled for clarity and usability  
-- **Timestamped data handling** using built-in Calendar and Date APIs  
+- **Admin-assistant dual login system** with secure credential handling
+- **AP & BP debate mode support** with role-based adjudicator input tracking
+- **Socket-based messaging module** for instant judge-admin communication
+- **Intuitive GUI** built with Java Swing, styled for clarity and usability
+- **Timestamped data handling** using built-in Calendar and Date APIs
 
 ---
 
 ### 🛠️ Technologies Used
 
-- **Core Language**: Java  
-- **GUI Toolkit**: Java Swing, AWT  
-- **Messaging Protocol**: Java Socket Programming  
-- **Database & I/O**: Java I/O Streams  
-- **Environment**: NetBeans IDE  
+- **Core Language**: Java
+- **GUI Toolkit**: Java Swing, AWT
+- **Messaging Protocol**: Java Socket Programming
+- **Database & I/O**: Java I/O Streams
+- **Environment**: NetBeans IDE
 
 ---
 
@@ -193,7 +194,6 @@ This Java-based desktop application supports smooth coordination of debate tourn
 <div style="display: flex; justify-content: center; margin: 2em 0;">
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LTSWU1sY0Co?si=peC2jA3yt3Lqbrvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
 
 This short clip walks through the application—from login to round tabbing to real-time messaging—in action.
 
