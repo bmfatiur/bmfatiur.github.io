@@ -24,7 +24,96 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
 
 ### 🖼️ Snapshot of the Journey
 
-<div style="max-width: 600px; margin: auto;">
+<!-- Swiper Styles -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+
+<!-- Swiper Container -->
+<div class="swiper uniform-swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" /></div>
+    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" /></div>
+  </div>
+
+  <!-- Navigation Arrows -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+
+  <!-- Pagination Dots -->
+  <div class="swiper-pagination"></div>
+</div>
+
+<!-- Swiper Script -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  new Swiper(".uniform-swiper", {
+    loop: true,
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
+    centeredSlides: true,
+    slidesPerView: "auto",
+    spaceBetween: 16,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
+</script>
+
+<!-- Slider Styling -->
+<style>
+  .uniform-swiper {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+  }
+
+  .swiper-slide {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    height: 300px;
+    width: auto;
+    object-fit: contain;
+    border-radius: 8px;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #007aff;
+  }
+
+  .swiper-pagination-bullet {
+    background: #007aff;
+    opacity: 0.7;
+  }
+
+  @media (max-width: 600px) {
+    .swiper-slide img {
+      height: 200px;
+    }
+  }
+</style>
+
+
+<!-- <div style="max-width: 600px; margin: auto;">
   <style>
     .slideshow-container {
       position: relative;
@@ -125,7 +214,7 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
     showSlides();
     autoSlide();
   </script>
-</div>
+</div> -->
 
 None of this would have been possible without the unwavering help and dedication of **Shafiul vai**, **Niloy**, **Bashar**, and the tireless efforts of our **committed executive team**. Solver Green didn’t just give me leadership experience—it became **woven into the memory of my undergraduate life**.
 
