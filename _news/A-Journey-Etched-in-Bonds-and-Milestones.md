@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Journey Etched in Bonds and Milestones 🎓"
+title: "🎓 A Journey Etched in Bonds and Milestones"
 date: 2025-01-26 18:00:00+0600
 inline: false
 related_posts: true
