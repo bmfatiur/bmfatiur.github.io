@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-from-silence-to-synergy-my-journey-with-solver-green",
+        
+          title: "From Silence to Synergy: My Journey with Solver Green 🌱",
+        
+        description: "A reflective farewell to Solver Green and its impact on my leadership, community building, and undergraduate journey at PUST",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -425,8 +436,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Bridging-the-Technical-Gap-with-EDUPY/";
-            },},{id: "news-a-journey-etched-in-bonds-and-milestones",
-          title: 'A Journey Etched in Bonds and Milestones 🎓',
+            },},{id: "news-from-silence-to-synergy-my-journey-with-solver-green",
+          title: 'From Silence to Synergy: My Journey with Solver Green 🌱',
+          description: "",
+          section: "News",},{id: "news-a-journey-etched-in-bonds-and-milestones",
+          title: '🎓 A Journey Etched in Bonds and Milestones',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/A-Journey-Etched-in-Bonds-and-Milestones/";
