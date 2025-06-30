@@ -25,10 +25,13 @@ Inside your **inline post**, use the following snippet to create a clean link to
 
 ```markdown
 [Read the full post]({{ site.baseurl }}/blog/2025/blog-post-1)
+```
 
-### So, your `/news/announcement-post-1.md` might look like:
+**So, your `/_news/announcement-post-1.md` might look like:**
 
-```---
+
+```markdown
+---
 layout: post
 date: 2025-01-26 16:50:16+0600
 inline: true
@@ -36,12 +39,13 @@ related_posts: false
 ---
 
 🔔 [announcement post 1]({{ site.baseurl }}/blog/2025/blog-post-1)
+```
 
----```
 
-### And, your `/post/2024-05-01-blog-post-1.md` might look like:
+**And, your `/_post/2024-05-01-blog-post-1.md` might look like:**
 
-```---
+```markdown
+---
 layout: post
 title: blog post 1
 date: 2025-05-01 16:40:16
@@ -51,4 +55,5 @@ categories: undergraduate-life
 permalink: /blog/2025/blog-post-1
 ---
 
-Body text would be here```
+Body text would be here
+```

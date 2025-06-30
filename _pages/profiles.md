@@ -14,7 +14,7 @@ profiles:
     content: about_bm.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Jogoshwar-7040, Bheramara</p>
+      <p>Jogoshwar, Bheramara-7040</p>
       <p>Kushtia, Bangladesh</p>
   # - align: left
   #   image: prof_pic.jpg
