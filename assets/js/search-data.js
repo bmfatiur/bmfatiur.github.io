@@ -424,7 +424,12 @@ ninja.data = [{
           title: 'Honored at &amp;#39;Bridging the Technical Gap with EDUPY&amp;#39; 🌟',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/Bridging%20the%20Technical%20Gap%20with%20EDUPY/";
+              window.location.href = "/news/Bridging-the-Technical-Gap-with-EDUPY/";
+            },},{id: "news-a-journey-etched-in-bonds-and-milestones",
+          title: 'A Journey Etched in Bonds and Milestones 🎓',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/A-Journey-Etched-in-Bonds-and-Milestones/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
