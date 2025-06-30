@@ -128,11 +128,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Aal-Izz-Well/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-sleepwell-a-machine-learning-web-app-for-early-detection-of-sleep-disorders",
+          title: '🧠 SleepWell: A Machine Learning Web App for Early Detection of Sleep Disorders...',
+          description: "ML-based sleep disorder detection app",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1/";
+              window.location.href = "/projects/SleepWell-A-Machine-Learning-Web-App-for-Early-Detection-of-Sleep-Disorders/";
             },},{
         id: 'social-email',
         title: 'email',
