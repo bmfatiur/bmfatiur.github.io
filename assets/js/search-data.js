@@ -48,6 +48,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/Linking-Inline-News-to-Full-Blog-Posts-in-al-folio";
           
         },
+      },{id: "post-️-how-i-structure-projects-on-my-al-folio-website",
+        
+          title: "🛠️ How I Structure Projects on My Al-Folio Website",
+        
+        description: "A behind-the-scenes look at how I organize and present my projects using al-folio",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/How-I-Structure-Projects-on-My-Al-Folio-Website";
+          
+        },
+      },{id: "post-️-captioned-amp-uncaptioned-sliders-in-al-folio-website-posts",
+        
+          title: "🖼️ Captioned &amp; Uncaptioned Sliders in Al-Folio Website Posts",
+        
+        description: "A practical comparison of slideshow layouts in al-folio using custom HTML + CSS + JS",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Captioned-Uncaptioned-Sliders-in-Al-Folio-Website-Posts";
+          
+        },
       },{id: "post-from-silence-to-synergy-my-journey-with-solver-green",
         
           title: "From Silence to Synergy: My Journey with Solver Green 🌱",
