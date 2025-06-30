@@ -405,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-champion-team-pustds-freshers-league-2019",
           title: '🏆 Champion Team – PUSTDS Freshers’ League 2019',
           description: "",
@@ -425,6 +420,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Inter-School-Debate-Competition-2022/";
+            },},{id: "news-honored-at-39-bridging-the-technical-gap-with-edupy-39",
+          title: 'Honored at &amp;#39;Bridging the Technical Gap with EDUPY&amp;#39; 🌟',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Bridging%20the%20Technical%20Gap%20with%20EDUPY/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
