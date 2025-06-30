@@ -7,180 +7,158 @@ importance: 203
 category: academic
 ---
 
-<!-- Swiper Styles -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-/>
+<div style="max-width: 600px; margin: auto;">
+  <style>
+    .slideshow-container {
+      position: relative;
+      overflow: hidden;
+      height: 400px;
+      background: #000;
+    }
+    .slideshow-slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .slideshow-slide img {
+      max-height: 90%;
+      max-width: 100%;
+      object-fit: contain;
+      margin: auto;
+      display: block;
+    }
+    .slide-caption {
+      color: #f0f0f0;
+      font-size: 16px;
+      margin-top: 8px;
+      font-weight: 500;
+    }
+    .prev, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 12px;
+      color: white;
+      font-weight: bold;
+      font-size: 18px;
+      background-color: rgba(0,0,0,0.5);
+      border-radius: 4px;
+      z-index: 10;
+      user-select: none;
+    }
+    .next {
+      right: 0;
+    }
+    .prev {
+      left: 0;
+    }
+  </style>
 
-<!-- Swiper Container -->
-<div class="swiper uniform-swiper">
-  <div class="swiper-wrapper">   
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-0.png" alt="🚪 Welcome Screen – Secure & Streamlined Entry for Organizers" />
-            <div class="slide-caption">🚪 Welcome Screen – Secure & Streamlined Entry for Organizers</div>
-        </div>
+  <div class="slideshow-container" onclick="togglePause()">
+    <!-- Slides with captions -->
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-0.png" alt="🚪 Welcome Screen" />
+      <div class="slide-caption">🚪 Welcome Screen – Secure & Streamlined Entry for Organizers</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-1.png" alt="🗨️ Real-Time Messaging Between Admin & Assistants" />
-            <div class="slide-caption">🗨️ Real-Time Messaging Between Admin & Assistants</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-1.png" alt="🗨️ Real-Time Messaging" />
+      <div class="slide-caption">🗨️ Real-Time Messaging Between Admin & Assistants</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-2.png" alt="📝 Effortless Creation of New Tournaments in Seconds" />
-            <div class="slide-caption">📝 Effortless Creation of New Tournaments in Seconds</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-2.png" alt="📝 Tournament Creation" />
+      <div class="slide-caption">📝 Effortless Creation of New Tournaments in Seconds</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-3.png" alt="🗂️ Structured Project View in Apache NetBeans 12.0" />
-            <div class="slide-caption">🗂️ Structured Project View in Apache NetBeans 12.0</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-3.png" alt="🗂️ Project View" />
+      <div class="slide-caption">🗂️ Structured Project View in Apache NetBeans 12.0</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-4.png" alt="📜 Configure Core Debate Rules for Any Format" />
-            <div class="slide-caption">📜 Configure Core Debate Rules for Any Format</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-4.png" alt="📜 Rule Configuration" />
+      <div class="slide-caption">📜 Configure Core Debate Rules for Any Format</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-5.png" alt="👥 Role-Based User Creation with Smart Setup Options" />
-            <div class="slide-caption">👥 Role-Based User Creation with Smart Setup Options</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-5.png" alt="👥 Role Management" />
+      <div class="slide-caption">👥 Role-Based User Creation with Smart Setup Options</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-6.png" alt="📊 Define Score Weightage & Judging Criteria" />
-            <div class="slide-caption">📊 Define Score Weightage & Judging Criteria</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-6.png" alt="📊 Score Weights" />
+      <div class="slide-caption">📊 Define Score Weightage & Judging Criteria</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-7.png" alt="🏆 Customize Standings Logic with Ranking Preferences" />
-            <div class="slide-caption">🏆 Customize Standings Logic with Ranking Preferences</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-7.png" alt="🏆 Standings Logic" />
+      <div class="slide-caption">🏆 Customize Standings Logic with Ranking Preferences</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-8.png" alt="➕ Add Teams Smoothly with Integrated Validation" />
-            <div class="slide-caption">➕ Add Teams Smoothly with Integrated Validation</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-8.png" alt="➕ Add Teams" />
+      <div class="slide-caption">➕ Add Teams Smoothly with Integrated Validation</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-9.png" alt="📈 Dynamic Team Standings View with Live Updates" />
-            <div class="slide-caption">📈 Dynamic Team Standings View with Live Updates</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-9.png" alt="📈 Standings View" />
+      <div class="slide-caption">📈 Dynamic Team Standings View with Live Updates</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-10.png" alt="✅ Track Judge & Team Check-Ins with Precision" />
-            <div class="slide-caption">✅ Track Judge & Team Check-Ins with Precision</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/Debate-Tabulation/Debate-Tabulation-Slide-10.png" alt="✅ Check-ins" />
+      <div class="slide-caption">✅ Track Judge & Team Check-Ins with Precision</div>
     </div>
+
+    <!-- Navigation -->
+    <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
+    <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
   </div>
 
-  <!-- Navigation Arrows -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
+  <script>
+    let slideIndex = 0;
+    let paused = false;
+    const slides = document.getElementsByClassName("slideshow-slide");
 
-  <!-- Pagination Dots -->
-  <div class="swiper-pagination"></div>
+    function showSlides() {
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slides[slideIndex].style.display = "flex";
+    }
+
+    function plusSlides(n) {
+      slideIndex = (slideIndex + n + slides.length) % slides.length;
+      showSlides();
+    }
+
+    function nextSlide() {
+      plusSlides(1);
+    }
+
+    function togglePause() {
+      paused = !paused;
+    }
+
+    function autoSlide() {
+      if (!paused) nextSlide();
+      setTimeout(autoSlide, 3000);
+    }
+
+    function preloadImages() {
+      const imgs = document.querySelectorAll(".slideshow-slide img");
+      imgs.forEach(img => {
+        const preImg = new Image();
+        preImg.src = img.src;
+      });
+    }
+
+    window.addEventListener("load", () => {
+      preloadImages();
+      showSlides();
+      autoSlide();
+    });
+  </script>
 </div>
-
-<!-- Swiper Script -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script>
-  new Swiper(".uniform-swiper", {
-    loop: true,
-    autoplay: {
-      delay: 3000,
-      disableOnInteraction: false,
-    },
-    centeredSlides: true,
-    slidesPerView: "auto",
-    spaceBetween: 16,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-  });
-</script>
-
-<!-- Slider Styling -->
-<style>
-  .uniform-swiper {
-    max-width: 800px;
-    margin: auto;
-    position: relative;
-  }
-
-  .swiper-slide {
-    width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .swiper-slide img {
-    height: 300px;
-    width: auto;
-    object-fit: contain;
-    border-radius: 8px;
-  }
-
-  .swiper-button-next,
-  .swiper-button-prev {
-    color: #007aff;
-  }
-
-  .swiper-pagination-bullet {
-    background: #007aff;
-    opacity: 0.7;
-  }
-
-  .slide-wrapper {
-  position: relative;
-  display: inline-block;
-}
-
-.slide-caption {
-  position: absolute;
-  bottom: 12px;
-  left: 12px;
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  padding: 4px 10px;
-  font-size: 14px;
-  border-radius: 4px;
-  font-weight: 500;
-  max-width: 80%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-  @media (max-width: 600px) {
-    .swiper-slide img {
-      height: 200px;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .slide-caption {
-        font-size: 12px;
-        padding: 3px 8px;
-    }
-  }
-</style>
 
 ---
 

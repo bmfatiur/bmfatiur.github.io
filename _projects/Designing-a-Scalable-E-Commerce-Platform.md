@@ -7,168 +7,148 @@ importance: 202
 category: academic
 ---
 
-<!-- Swiper Styles -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-/>
+<div style="max-width: 600px; margin: auto;">
+  <style>
+    .slideshow-container {
+      position: relative;
+      overflow: hidden;
+      height: 400px;
+      background: #000;
+    }
+    .slideshow-slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: none;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .slideshow-slide img {
+      max-height: 90%;
+      max-width: 100%;
+      object-fit: contain;
+      margin: auto;
+      display: block;
+    }
+    .slide-caption {
+      color: #f0f0f0;
+      font-size: 16px;
+      margin-top: 5px;
+      font-weight: 500;
+    }
+    .prev, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      padding: 12px;
+      color: white;
+      font-weight: bold;
+      font-size: 18px;
+      background-color: rgba(0,0,0,0.5);
+      border-radius: 4px;
+      z-index: 10;
+      user-select: none;
+    }
+    .next {
+      right: 0;
+    }
+    .prev {
+      left: 0;
+    }
+  </style>
 
-<!-- Swiper Container -->
-<div class="swiper uniform-swiper">
-  <div class="swiper-wrapper">   
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Login.png" alt="Login Page" />
-            <div class="slide-caption">Login Page</div>
-        </div>
+  <div class="slideshow-container" onclick="togglePause()">
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Login.png" alt="Login Page" />
+      <div class="slide-caption">Login Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Admin-Dashboard.png" alt="Admin Dashboard Page" />
-            <div class="slide-caption">Admin Dashboard Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Admin-Dashboard.png" alt="Admin Dashboard" />
+      <div class="slide-caption">Admin Dashboard</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Database.png" alt="Database Page" />
-            <div class="slide-caption">Database Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Database.png" alt="Database Page" />
+      <div class="slide-caption">Database Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Category.png" alt="Category Page" />
-            <div class="slide-caption">Category Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Category.png" alt="Category Page" />
+      <div class="slide-caption">Category Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Coupon.png" alt="Coupon Page" />
-            <div class="slide-caption">Coupon Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Coupon.png" alt="Coupon Page" />
+      <div class="slide-caption">Coupon Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Order.png" alt="Order Page" />
-            <div class="slide-caption">Order Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Order.png" alt="Order Page" />
+      <div class="slide-caption">Order Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Products.png" alt="Products Page" />
-            <div class="slide-caption">Products Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Products.png" alt="Products Page" />
+      <div class="slide-caption">Products Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Testimonial.png" alt="Testimonial Page" />
-            <div class="slide-caption">Testimonial Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Testimonial.png" alt="Testimonial Page" />
+      <div class="slide-caption">Testimonial Page</div>
     </div>
-    <div class="swiper-slide">
-        <div class="slide-wrapper">
-            <img src="/assets/img/projects/E-Commerce/Tokens.png" alt="Tokens Page" />
-            <div class="slide-caption">Tokens Page</div>
-        </div>
+    <div class="slideshow-slide">
+      <img src="/assets/img/projects/E-Commerce/Tokens.png" alt="Tokens Page" />
+      <div class="slide-caption">Tokens Page</div>
     </div>
+
+    <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
+    <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
   </div>
 
-  <!-- Navigation Arrows -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
+  <script>
+    let slideIndex = 0;
+    let paused = false;
+    const slides = document.getElementsByClassName("slideshow-slide");
 
-  <!-- Pagination Dots -->
-  <div class="swiper-pagination"></div>
+    function showSlides() {
+      for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      slides[slideIndex].style.display = "flex";
+    }
+
+    function plusSlides(n) {
+      slideIndex = (slideIndex + n + slides.length) % slides.length;
+      showSlides();
+    }
+
+    function nextSlide() {
+      plusSlides(1);
+    }
+
+    function togglePause() {
+      paused = !paused;
+    }
+
+    function autoSlide() {
+      if (!paused) nextSlide();
+      setTimeout(autoSlide, 3000);
+    }
+
+    function preloadImages() {
+      const imgs = document.querySelectorAll(".slideshow-slide img");
+      imgs.forEach(img => {
+        const preImg = new Image();
+        preImg.src = img.src;
+      });
+    }
+
+    window.addEventListener("load", () => {
+      preloadImages();
+      showSlides();
+      autoSlide();
+    });
+  </script>
 </div>
-
-<!-- Swiper Script -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script>
-  new Swiper(".uniform-swiper", {
-    loop: true,
-    autoplay: {
-      delay: 3000,
-      disableOnInteraction: false,
-    },
-    centeredSlides: true,
-    slidesPerView: "auto",
-    spaceBetween: 16,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-  });
-</script>
-
-<!-- Slider Styling -->
-<style>
-  .uniform-swiper {
-    max-width: 800px;
-    margin: auto;
-    position: relative;
-  }
-
-  .swiper-slide {
-    width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .swiper-slide img {
-    height: 300px;
-    width: auto;
-    object-fit: contain;
-    border-radius: 8px;
-  }
-
-  .swiper-button-next,
-  .swiper-button-prev {
-    color: #007aff;
-  }
-
-  .swiper-pagination-bullet {
-    background: #007aff;
-    opacity: 0.7;
-  }
-
-  .slide-wrapper {
-  position: relative;
-  display: inline-block;
-}
-
-.slide-caption {
-  position: absolute;
-  bottom: 12px;
-  left: 12px;
-  background-color: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  padding: 4px 10px;
-  font-size: 14px;
-  border-radius: 4px;
-  font-weight: 500;
-  max-width: 80%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-  @media (max-width: 600px) {
-    .swiper-slide img {
-      height: 200px;
-    }
-  }
-
-  @media (max-width: 600px) {
-    .slide-caption {
-        font-size: 12px;
-        padding: 3px 8px;
-    }
-  }
-</style>
 
 ---
 

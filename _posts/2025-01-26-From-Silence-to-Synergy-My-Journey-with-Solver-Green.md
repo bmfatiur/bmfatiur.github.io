@@ -12,6 +12,8 @@ permalink: /blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green
   <img src="/assets/img/blog/2025/Solver-Green/solvergreen-crest.webp" alt="Solver Green Farewell Crest" height="600" style="max-height: 60%; width: auto;" />
 </p>
 
+---
+
 What started as a quiet step through **PUSTDS**, where I first met **Shafiul vai**, quickly turned into one of the most defining chapters of my university life—**my journey with Solver Green**.
 
 Back when Solver Green saw only a few active members, I witnessed it firsthand. I remember carrying the projector alone from the **proctor’s office** to our event, then to my **mess room**, and returning it the next day. Small steps. But they were the beginning.
@@ -24,124 +26,41 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
 
 ### 🖼️ Snapshot of the Journey
 
-<!-- Swiper Styles -->
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-/>
-
-<!-- Swiper Container -->
-<div class="swiper uniform-swiper">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" /></div>
-    <div class="swiper-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" /></div>
-  </div>
-
-  <!-- Navigation Arrows -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-
-  <!-- Pagination Dots -->
-  <div class="swiper-pagination"></div>
-</div>
-
-<!-- Swiper Script -->
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script>
-  new Swiper(".uniform-swiper", {
-    loop: true,
-    autoplay: {
-      delay: 3000,
-      disableOnInteraction: false,
-    },
-    centeredSlides: true,
-    slidesPerView: "auto",
-    spaceBetween: 16,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-  });
-</script>
-
-<!-- Slider Styling -->
-<style>
-  .uniform-swiper {
-    max-width: 800px;
-    margin: auto;
-    position: relative;
-  }
-
-  .swiper-slide {
-    width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .swiper-slide img {
-    height: 300px;
-    width: auto;
-    object-fit: contain;
-    border-radius: 8px;
-  }
-
-  .swiper-button-next,
-  .swiper-button-prev {
-    color: #007aff;
-  }
-
-  .swiper-pagination-bullet {
-    background: #007aff;
-    opacity: 0.7;
-  }
-
-  @media (max-width: 600px) {
-    .swiper-slide img {
-      height: 200px;
-    }
-  }
-</style>
-
-
-<!-- <div style="max-width: 600px; margin: auto;">
+<div style="max-width: 600px; margin: auto;">
   <style>
     .slideshow-container {
       position: relative;
       overflow: hidden;
+      height: 400px; /* 🔒 Consistent height */
     }
     .slideshow-slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
       display: none;
       text-align: center;
     }
     .slideshow-slide img {
-      width: 100%;
-      height: auto;
-      cursor: pointer;
+      max-height: 100%;
+      max-width: 100%;
+      object-fit: contain;
+      margin: auto;
+      display: block;
     }
     .prev, .next {
       cursor: pointer;
       position: absolute;
       top: 50%;
-      width: auto;
+      transform: translateY(-50%);
       padding: 12px;
-      margin-top: -22px;
       color: white;
       font-weight: bold;
       font-size: 18px;
       background-color: rgba(0,0,0,0.5);
       border-radius: 4px;
-      user-select: none;
-      z-index: 1;
+      z-index: 10;
     }
     .next {
       right: 0;
@@ -152,29 +71,16 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
   </style>
 
   <div class="slideshow-container" onclick="togglePause()">
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" />
-    </div>
-    <div class="slideshow-slide">
-      <img src="/assets/img/blog/2025/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" />
-    </div>
-    
+    <!-- Slides -->
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-0.jpg" alt="Group Photo 1" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-1.jpg" alt="Group Photo 2" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-2.webp" alt="Group Photo 3" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-3.webp" alt="Group Photo 4" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-4.webp" alt="Group Photo 5" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-5.jpg" alt="Group Photo 6" /></div>
+    <div class="slideshow-slide"><img src="/assets/img/blog/2025/Solver-Green/solver-green-group-6.jpg" alt="Group Photo 7" /></div>
 
+    <!-- Navigation -->
     <a class="prev" onclick="plusSlides(-1); event.stopPropagation();">&#10094;</a>
     <a class="next" onclick="plusSlides(1); event.stopPropagation();">&#10095;</a>
   </div>
@@ -191,14 +97,13 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
       slides[slideIndex].style.display = "block";
     }
 
-    function nextSlide() {
-      slideIndex = (slideIndex + 1) % slides.length;
-      showSlides();
-    }
-
     function plusSlides(n) {
       slideIndex = (slideIndex + n + slides.length) % slides.length;
       showSlides();
+    }
+
+    function nextSlide() {
+      plusSlides(1);
     }
 
     function togglePause() {
@@ -210,11 +115,24 @@ A cornerstone in that success was **CodePanja Online Judge**, developed and main
       setTimeout(autoSlide, 3000);
     }
 
-    // Initialize
-    showSlides();
-    autoSlide();
+    function preloadImages() {
+      const imgs = document.querySelectorAll(".slideshow-slide img");
+      imgs.forEach(img => {
+        const src = img.getAttribute("src");
+        const preImg = new Image();
+        preImg.src = src;
+      });
+    }
+
+    window.addEventListener("load", () => {
+      preloadImages();
+      showSlides();
+      autoSlide();
+    });
   </script>
-</div> -->
+</div>
+
+---
 
 None of this would have been possible without the unwavering help and dedication of **Shafiul vai**, **Niloy**, **Bashar**, and the tireless efforts of our **committed executive team**. Solver Green didn’t just give me leadership experience—it became **woven into the memory of my undergraduate life**.
 
