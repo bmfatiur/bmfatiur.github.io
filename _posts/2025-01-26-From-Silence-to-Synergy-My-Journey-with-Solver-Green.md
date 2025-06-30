@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From Silence to Synergy: My Journey with Solver Green 🌱"
-date: 2025-01-26 16:40:16
+date: 2025-01-26 16:40:16+0600
 description: "A reflective farewell to Solver Green and its impact on my leadership, community building, and undergraduate journey at PUST"
 tags: ECA
 categories: undergraduate-life

@@ -13,9 +13,9 @@ In content-heavy academic websites, providing **concise summaries through inline
 ### ✅ Scenario
 
 Suppose you have:
-- An inline post at: `/news/announcement-post-1.md`
-- A blog post at: `/post/2024-05-01-blog-post-1.md`  
-  with a permalink: `/blog/2025/blog-post-1`
+- An inline post at: `/_news/announcement-post-1.md`
+- A blog post at: `/_post/2024-05-01-blog-post-1.md`  
+  with a permalink: `your-site-url/blog/2025/blog-post-1`
 
 ---
 
