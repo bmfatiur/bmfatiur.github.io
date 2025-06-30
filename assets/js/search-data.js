@@ -37,15 +37,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-linking-inline-news-to-full-blog-posts-in-al-folio-️",
         
-          title: "a post with plotly.js",
+          title: "Linking Inline News to Full Blog Posts in al-folio ✍️",
         
-        description: "this is what included plotly.js code could look like",
+        description: "A simple guide to interconnecting your inline announcements and full-length blog content using al-folio.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/Linking-Inline-News-to-Full-Blog-Posts-in-al-folio";
           
         },
       },{id: "post-from-silence-to-synergy-my-journey-with-solver-green",
@@ -57,6 +57,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
