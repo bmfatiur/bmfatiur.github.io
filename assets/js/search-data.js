@@ -133,6 +133,11 @@ ninja.data = [{
           description: "Web-based Laravel e-commerce system with robust admin and user interfaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Designing-a-Scalable-E-Commerce-Platform/";
+            },},{id: "projects-dino-dash-a-retro-runner-in-modern-c",
+          title: '🦖 Dino Dash: A Retro Runner in Modern C++',
+          description: "A 2D Chrome-inspired endless runner combining legacy BGI graphics and modern OpenGL in C++.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Dino-Dash-A-Retro-Runner-in-Modern-C++/";
             },},{id: "projects-️-real-time-tabulation-and-messaging-software-for-debate-tournaments",
           title: '🗂️ Real-Time Tabulation and Messaging Software for Debate Tournaments',
           description: "Desktop system for AP &amp; BP debate tabbing and judge coordination",
