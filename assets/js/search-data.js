@@ -130,9 +130,14 @@ ninja.data = [{
               window.location.href = "/news/Aal-Izz-Well/";
             },},{id: "projects-designing-a-scalable-e-commerce-platform-for-padma-oil-mill-ltd",
           title: '🛒 Designing a Scalable E-Commerce Platform for Padma Oil Mill Ltd',
-          description: "Web-based Laravel e-commerce system with robust admin &amp; user interfaces",
+          description: "Web-based Laravel e-commerce system with robust admin and user interfaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Designing-a-Scalable-E-Commerce-Platform/";
+            },},{id: "projects-️-real-time-tabulation-and-messaging-software-for-debate-tournaments",
+          title: '🗂️ Real-Time Tabulation and Messaging Software for Debate Tournaments',
+          description: "Desktop system for AP &amp; BP debate tabbing and judge coordination",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Real-Time-Tabulation-and-Messaging-Software-for-Debate-Tournaments/";
             },},{id: "projects-sleepwell-a-machine-learning-web-app-for-early-detection-of-sleep-disorders",
           title: '🧠 SleepWell: A Machine Learning Web App for Early Detection of Sleep Disorders...',
           description: "ML-based sleep disorder detection app",
