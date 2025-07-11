@@ -44,6 +44,7 @@ As the **Tab Director**, I had the honor of orchestrating the tournament’s tec
   <img src="/assets/img/blog/2025/PUSTDS-IV/crest.webp" alt="PUSTDS IV Crest" style="max-width: 200px; margin-top: 1em;" />
 </div>
 <!-- https://imgresizeronline.com/ -->
+<!-- https://codebeautify.org/markdown-formatter# -->
 ---
 
 ## 📸 Event Highlights
