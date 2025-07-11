@@ -25,7 +25,7 @@ As the **Tab Director**, I had the honor of orchestrating the tournament’s tec
 - **Dates:** July 4 (Tab Rounds) & July 5 (Semifinal + Final)
 - **Format:** Asian Parliamentary (Bangla)
 - **Teams:** 32 universities
-- **Venue:** PUST Campus, Pabna  
+- **Venue:** PUST Campus, Pabna
 - 🔗 [View the Event on Facebook](https://www.facebook.com/events/1856374478543738/)
 
 ---
@@ -43,7 +43,7 @@ As the **Tab Director**, I had the honor of orchestrating the tournament’s tec
 <div style="text-align: center;">
   <img src="/assets/img/blog/2025/PUSTDS-IV/crest.webp" alt="PUSTDS IV Crest" style="max-width: 200px; margin-top: 1em;" />
 </div>
-
+<!-- https://imgresizeronline.com/ -->
 ---
 
 ## 📸 Event Highlights
