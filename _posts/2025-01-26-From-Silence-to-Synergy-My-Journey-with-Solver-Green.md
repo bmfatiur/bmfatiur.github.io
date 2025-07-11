@@ -9,7 +9,7 @@ permalink: /blog/2025/From-Silence-to-Synergy-My-Journey-with-Solver-Green
 ---
 
 <p align="center">
-  <img src="/assets/img/blog/2025/Solver-Green/solvergreen-crest.webp" alt="Solver Green Farewell Crest" height="600" style="max-height: 60%; width: auto;" />
+  <img src="/assets/img/blog/2025/Solver-Green/solvergreen-crest.webp" alt="Solver Green Farewell Crest" height="600" style="max-height: 40%; width: auto;" />
 </p>
 
 ---
