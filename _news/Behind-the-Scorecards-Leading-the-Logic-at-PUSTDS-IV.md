@@ -33,7 +33,7 @@ As the **Tab Director**, I had the honor of orchestrating the tournament’s tec
 ## 🖼️ Poster
 
 <div style="text-align: center;">
-  <img src="/assets/img/news/PUSTDS-IV/poster.webp" alt="Tab Director Poster" style="max-width: 100%; border-radius: 8px;" />
+  <img src="/assets/img/news/PUSTDS-IV/poster.webp" alt="Tab Director Poster" style="max-height: 50%; border-radius: 8px;" />
 </div>
 
 ---
@@ -41,7 +41,7 @@ As the **Tab Director**, I had the honor of orchestrating the tournament’s tec
 ## 🛡️ Crest of Honor
 
 <div style="text-align: center;">
-  <img src="/assets/img/blog/2025/PUSTDS-IV/crest.webp" alt="PUSTDS IV Crest" style="max-width: 200px; margin-top: 1em;" />
+  <img src="/assets/img/news/PUSTDS-IV/crest.webp" alt="PUSTDS IV Crest" style="max-height: 50%; margin-top: 1em;" />
 </div>
 <!-- https://imgresizeronline.com/ -->
 <!-- https://codebeautify.org/markdown-formatter# -->
