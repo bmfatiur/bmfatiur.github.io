@@ -29,7 +29,7 @@ latest_posts:
 Hello!
 I'm a Computer Science and Engineering graduate from Pabna University of Science and Technology, Bangladesh, Class of 2025. From the very beginning of my academic journey, I have been deeply passionate about `computer vision`, marveling at its potential to revolutionize technology and everyday life. Currently, I am preparing to pursue higher studies abroad while actively engaging in research that contributes to this transformative field.
 
-My expertise is rooted in the dynamic field of `computer vision`, where I focus on developing intelligent systems that address complex challenges and enhance lives. While this remains my primary focus, I am equally intrigued by related domains such as `autonomous vehicles`, `pattern recognition`, `3D vision`, `vision for robotics`, `activity recognition`, and `human-computer interaction(HCI)`—areas where innovation meets real-world impact.
+My expertise is rooted in the dynamic field of `computer vision`, where I focus on developing intelligent systems that address complex challenges and enhance lives. While this remains my primary focus, I am equally intrigued by related domains such as `autonomous vehicles`, `pattern recognition`, `3D vision and reconstruction`, `vision for robotics`, `activity recognition`, and `human-computer interaction(HCI)`—areas where innovation meets real-world impact.
 
 Beyond academia and research, I thrive on `leadership` and `community initiatives`, as they offer invaluable opportunities to grow and create positive change.
 
