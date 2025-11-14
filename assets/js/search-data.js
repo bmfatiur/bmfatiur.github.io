@@ -155,6 +155,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Behind-the-Scorecards-Leading-the-Logic-at-PUSTDS-IV/";
+            },},{id: "news-two-months-at-the-international-maritime-academy-lessons-bonds-amp-reflections",
+          title: '⚓ Two Months at the International Maritime Academy: Lessons, Bonds &amp;amp; Reflections',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/IMA-Journey-Reflections/";
             },},{id: "projects-designing-a-scalable-e-commerce-platform-for-padma-oil-mill-ltd",
           title: '🛒 Designing a Scalable E-Commerce Platform for Padma Oil Mill Ltd',
           description: "Web-based Laravel e-commerce system with robust admin and user interfaces",
