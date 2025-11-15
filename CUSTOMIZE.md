@@ -5,8 +5,8 @@ Here we will give you some tips on how to customize the website. One important t
 **For codespace prettier installation & use**
 
 ```markdown
-sudo apk update
-sudo apk add nodejs npm
+sudo apt update
+sudo apt install nodejs npm
 npm install --save-dev --save-exact prettier
 node -v
 npm -v
@@ -45,9 +45,8 @@ npx prettier . --check
     - [Personal Access Token (fine-grained) Permissions for Lighthouse Badger:](#personal-access-token-fine-grained-permissions-for-lighthouse-badger)
   - [Customizing fonts, spacing, and more](#customizing-fonts-spacing-and-more)
   - [Scheduled Posts](#scheduled-posts)
-  _ [Name Format](#name-format)
-  _ [Important Notes](#important-notes)
-  <!--te-->
+    - [Name Format](#name-format)
+    - [Important Notes](#important-notes)
 
 ## Project structure
 

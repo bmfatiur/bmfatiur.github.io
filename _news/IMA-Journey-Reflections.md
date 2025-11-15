@@ -11,61 +11,73 @@ My two-month tenure as a **Computer Science Lecturer at the International Mariti
 ---
 
 ## 👥 Bonds with Colleagues
-I was fortunate to form meaningful relationships:  
-- **Rifat Sir** felt like a close friend.  
-- **Mithila Mam** guided me with the warmth of an elder sister.  
-- **Saiful Sir** were like elder brother.  
-- **Nusrat Mam and Rafi Sir** added to the supportive academic circle.  
+
+I was fortunate to form meaningful relationships:
+
+- **Rifat Sir** felt like a close friend.
+- **Mithila Mam** guided me with the warmth of an elder sister.
+- **Saiful Sir** were like elder brother.
+- **Nusrat Mam and Rafi Sir** added to the supportive academic circle.
 
 These bonds made the Academy feel like a family.
 
 ---
 
 ## 🏛 Discipline & Office Life
-IMA’s culture was defined by discipline and respect.  
-- Lunch with the **Commandant and Deputy Commandant** was astonishing—formal yet lightened by the DC Sir’s instant jokes.  
-- The structured environment of senior and junior cadets reflected the Academy’s mission of excellence.  
+
+IMA’s culture was defined by discipline and respect.
+
+- Lunch with the **Commandant and Deputy Commandant** was astonishing—formal yet lightened by the DC Sir’s instant jokes.
+- The structured environment of senior and junior cadets reflected the Academy’s mission of excellence.
 
 ---
 
 ## 🌅 Unforgettable Moments
-- The **night sky from the parade ground** was breathtaking.  
-- The **morning parade drill** became my daily alarm.  
-- The **sunrise from my balcony** was unforgettable.  
-- Even the **tea from the galley** had a unique flavor.  
+
+- The **night sky from the parade ground** was breathtaking.
+- The **morning parade drill** became my daily alarm.
+- The **sunrise from my balcony** was unforgettable.
+- Even the **tea from the galley** had a unique flavor.
 
 ---
 
 ## 💻 Teaching & Cadet Relations
-Teaching Computer Science in a condensed timeframe was challenging yet rewarding.  
-- **Efficient teaching methods** helped cadets build strong technical foundations quickly.  
-- **Computer lab sessions** strengthened bonds with junior cadets.  
-- **Night dormitory inspections** built respect with senior cadets.  
-- Covering lectures within limited hours sharpened my adaptability.  
+
+Teaching Computer Science in a condensed timeframe was challenging yet rewarding.
+
+- **Efficient teaching methods** helped cadets build strong technical foundations quickly.
+- **Computer lab sessions** strengthened bonds with junior cadets.
+- **Night dormitory inspections** built respect with senior cadets.
+- Covering lectures within limited hours sharpened my adaptability.
 
 ---
 
 ## 🌍 Broader Exposure
-Beyond teaching, I had the chance to:  
-- Meet with a **Malaysian team**.  
-- Engage with the **Department of Shipping, Bangladesh**.  
-- Contribute to **course plan design**.  
+
+Beyond teaching, I had the chance to:
+
+- Meet with a **Malaysian team**.
+- Engage with the **Department of Shipping, Bangladesh**.
+- Contribute to **course plan design**.
 
 These experiences added international and institutional dimensions to my role.
 
 ---
 
 ## ✨ Reflections
-This short journey taught me:  
-- The value of **discipline and structure**.  
-- The importance of **adaptability and efficiency** in teaching.  
-- The power of **relationships and community** in academic life.  
+
+This short journey taught me:
+
+- The value of **discipline and structure**.
+- The importance of **adaptability and efficiency** in teaching.
+- The power of **relationships and community** in academic life.
 
 Though only two months, my time at IMA was transformative — an experience I will carry forward.
 
 ---
 
 ## 📸 Photo Gallery
+
 <div style="max-width: 600px; margin: auto;">
   <style>
     .slideshow-container {
