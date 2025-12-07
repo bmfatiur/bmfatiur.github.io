@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-linking-inline-news-to-full-blog-posts-in-al-folio-️",
+        },{id: "post-fixing-xtreme-download-manager-desktop-icon-issue-on-ubuntu-️",
+        
+          title: "Fixing Xtreme Download Manager Desktop Icon Issue on Ubuntu 🛠️",
+        
+        description: "A complete guide to making XDM launch from the desktop icon and terminal without sudo.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Fixing-XDM-Desktop-Icon-Issue-on-Ubuntu";
+          
+        },
+      },{id: "post-linking-inline-news-to-full-blog-posts-in-al-folio-️",
         
           title: "Linking Inline News to Full Blog Posts in al-folio ✍️",
         
