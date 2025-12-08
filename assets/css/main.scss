@@ -1,0 +1,30 @@
+// assets/css/main.scss
+
+---
+// Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
+// Load string module for icon libraries that might need it
+@use "sass:string";
+
+// Use @forward to load and expose the styles from core theme components
+// Use @use for utility files like variables/themes if they are accessed directly
+@use "variables";
+@forward "themes";
+@forward "layout";
+@forward "base";
+@forward "distill";
+@forward "cv";
+@forward "tabs";
+@forward "typograms";
+@forward "font-awesome/fontawesome";
+@forward "font-awesome/brands";
+@forward "font-awesome/solid";
+@forward "font-awesome/regular";
+@forward "tabler-icons/tabler-icons.scss";
+@forward "tabler-icons/tabler-icons-filled.scss";
+@forward "tabler-icons/tabler-icons-outline.scss";
