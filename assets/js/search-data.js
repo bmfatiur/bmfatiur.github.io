@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-fixing-xtreme-download-manager-desktop-icon-issue-on-ubuntu-️",
+        },{id: "post-fixing-github-profile-trophy-issue-in-jekyll-al-folio",
+        
+          title: "Fixing GitHub Profile Trophy Issue in Jekyll al-folio 🏆",
+        
+        description: "Step-by-step guide to self-host GitHub Profile Trophy on Vercel and integrate with al-folio.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Fixing-GitHub-Profile-Trophy-Issue-in-al-folio";
+          
+        },
+      },{id: "post-fixing-github-stats-card-issue-in-jekyll-al-folio",
+        
+          title: "Fixing GitHub Stats Card Issue in Jekyll al-folio 🚀",
+        
+        description: "Step-by-step guide to deploying GitHub Readme Stats on Vercel and integrating with al-folio.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Fixing-GitHub-Stats-Issue-in-al-folio";
+          
+        },
+      },{id: "post-fixing-xtreme-download-manager-desktop-icon-issue-on-ubuntu-️",
         
           title: "Fixing Xtreme Download Manager Desktop Icon Issue on Ubuntu 🛠️",
         
