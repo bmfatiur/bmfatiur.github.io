@@ -8,10 +8,10 @@ categories: Linux
 permalink: /blog/2025/Fixing-XDM-Desktop-Icon-Issue-on-Ubuntu
 ---
 
-If you’ve installed **Xtreme Download Manager (XDM)** on Ubuntu, you may have noticed a frustrating issue:  
+If you’ve installed **Xtreme Download Manager (XDM)** on Ubuntu, you may have noticed a frustrating issue:
 
-- Clicking the desktop icon does nothing.  
-- Running `xdman` in the terminal fails unless you use `sudo`.  
+- Clicking the desktop icon does nothing.
+- Running `xdman` in the terminal fails unless you use `sudo`.
 
 Here’s a simple, step‑by‑step solution to make XDM launch smoothly from both the **desktop icon** and the **terminal** without requiring administrative privileges.
 
@@ -127,8 +127,8 @@ Now XDM launches properly both from the **desktop icon** and directly from the *
 
 With these three steps:
 
-1. Custom script  
-2. Updated `.desktop` file  
-3. Fixed terminal entry  
+1. Custom script
+2. Updated `.desktop` file
+3. Fixed terminal entry
 
 You’ve eliminated the need for `sudo` and ensured XDM runs seamlessly on Ubuntu. Enjoy faster downloads without the hassle!
